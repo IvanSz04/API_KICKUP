@@ -108,3 +108,29 @@ POST: []
 RAW: {"id":4,"tittle":"Nuevo consejo","difficulty":"Media","position":"Delantero","goals":"Mejorar remate","csj1":"Consejo 1","csj2":"Consejo 2","csj3":"Consejo 3","user_id":4}
 POST: []
 RAW: {"id":8,"tittle":"Bienvenidos Crack","difficulty":"9","position":"Cualquier","goals":"Ganar partidos y hacer goles","csj1":"Bla","csj2":"Bla","csj3":"Bla","user_id":5}
+POST: []
+RAW: {"id":10,"tittle":"Prueba","difficulty":"5","position":"Prueba","goals":"Prueba","csj1":"Prueba","csj2":"Prueba","csj3":"Prueba","user_id":10}
+POST: []
+RAW: {"id":10,"tittle":"Prueba","difficulty":"10","position":"Ninguno","goals":"Prueba","csj1":"Prueba","csj2":"Prueba","csj3":"Prueba","user_id":10}
+POST: []
+RAW: {"id":4,"tittle":"Nuevo consejo","difficulty":"Media","position":"Delantero","goals":"Mejorar remate","csj1":"Consejo 1","csj2":"Consejo 2","csj3":"Consejo 3","user_id":4}
+POST: []
+RAW: {"id":4,"tittle":"Nuevo cons","difficulty":"Media","position":"Delantero","goals":"Mejorar remate","csj1":"Consejo Mejor","csj2":"Consejo 2","csj3":"Consejo 3","user_id":4}
+POST: []
+RAW: {"id":7,"tittle":"corregir","difficulty":"cc c","position":"cc","goals":"cc ","csj1":"cc c","csj2":"cc c","csj3":"ccc","user_id":2}
+POST: []
+RAW: {"id":7,"tittle":"coreegir","difficulty":"cc cnnnn","position":"ccjsksj","goals":"sobje","csj1":"cc cbbb","csj2":"cc cbbbb","csj3":"cccnnbbb","user_id":2}
+POST: []
+RAW: {"id":7,"tittle":"coreegir","difficulty":"cc c","position":"cc","goals":"cc ddkskks","csj1":"cc c","csj2":"cc c","csj3":"ccc","user_id":2}
+POST: []
+RAW: {"id":7,"tittle":"No","difficulty":"No","position":"No","goals":"No","csj1":"No","csj2":"No","csj3":"No","user_id":2}
+POST: []
+RAW: {"id":4,"tittle":"Nuevo consejo","difficulty":"Media","position":"Delantero","goals":"Mejorar remate","csj1":"Consejo Mejor","csj2":"Consejo 2","csj3":"Consejo 3","user_id":4}
+POST: []
+RAW: {"id":7,"tittle":"Si","difficulty":"No","position":"No","goals":"No","csj1":"No","csj2":"No","csj3":"No","user_id":2}
+POST: []
+RAW: {"id":7,"tittle":"No","difficulty":"No","position":"No","goals":"No","csj1":"No","csj2":"No","csj3":"No","user_id":2}
+POST: []
+RAW: {"id":11,"tittle":"Hola Mundo","difficulty":"8","position":"Hola","goals":"Hola ","csj1":"Hola","csj2":"Hola","csj3":"Hola","user_id":2}
+POST: []
+RAW: {"id":11,"tittle":"Hola Mundo 1","difficulty":"8","position":"Hola","goals":"Hola ","csj1":"Hola","csj2":"Hola","csj3":"Hola","user_id":2}
